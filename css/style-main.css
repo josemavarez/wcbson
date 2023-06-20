@@ -190,7 +190,10 @@ a {
 
 img {
   max-width: 100%; }
-
+  .img-footer {
+    height: 120px;
+    max-width: 100%; }
+  
 iframe {
   border: none !important; }
 
